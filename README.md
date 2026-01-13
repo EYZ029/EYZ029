@@ -43,7 +43,7 @@ Projelerimde temiz kod yapısına, kullanıcı deneyimine ve sürdürülebilirli
 <div align="center">
 
 ### 📁 **Proje Adı 1** Mobil Uygulama Geliştirme Projesi  
-🔗 
+🔗 https://github.com/EYZ029/cekici
 
 ---
 
